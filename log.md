@@ -11,8 +11,9 @@
 
 ### Day 0: December 13, 2024
 
-**Today's Progress**: Getting started, researched Promises to get a better understanding.
+**Today's Progress**: Getting started, researched Promises to get a better understanding. I also started to build a dog photo generator page.
 
-**Thoughts**:
+**Thoughts**: The first day is always the hardest to get started, but I believe I've created some starting points to achieve the goal of coding for the next 100 days.
+I need to build a better understanding of the fundamentals and get more comfortable styling components myself. Here's to day 0 🍻
 
-**Link(s) to work**: [Promises](https://github.com/charlehs/Fundamentals/blob/main/script.js)
+**Link(s) to work**: [Promises](https://github.com/charlehs/Fundamentals/blob/main/script.js) [Dog Generator](https://github.com/charlehs/dogGenerator)
