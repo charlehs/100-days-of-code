@@ -11,8 +11,8 @@
 
 ### Day 0: December 13, 2024
 
-**Today's Progress**: Getting started, researching Promises and working on a small app
+**Today's Progress**: Getting started, researched Promises to get a better understanding.
 
 **Thoughts**:
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Promises](https://github.com/charlehs/Fundamentals/blob/main/script.js)
