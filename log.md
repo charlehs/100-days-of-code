@@ -17,3 +17,11 @@
 I need to build a better understanding of the fundamentals and get more comfortable styling components myself. Here's to day 0 🍻
 
 **Link(s) to work**: [Promises](https://github.com/charlehs/Fundamentals/blob/main/script.js) [Dog Generator](https://github.com/charlehs/dogGenerator)
+
+### Day 1: December 14, 2024
+
+**Today's Progress**: Continuing with the Dog Generator
+
+**Thoughts**: Glad to keep the momentum going, played around with hooking up the dog api to add pictures to the web app. I also rewrote the API request multiple times to build the muscle memory writing requests.
+
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
