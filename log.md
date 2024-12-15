@@ -2,11 +2,13 @@
 
 ### Day 2: December 15, 2024
 
-**Today's Progress**: Study session and.....
+**Today's Progress**: Study session and refactored API request on dogGenerator
 
 **Thoughts**: Started the day working through CSS grid problems, focused on getting `grid-template-areas:` into my head. I plan on doing some TS problems as well as rebuilding a component in React this afternoon.
+<br/>
+Refactored the API request to use a utility function in dogGenerator and watched some videos on async / await functions.
 
-<!-- **Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator) -->
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
 
 ### Day 1: December 14, 2024
 
