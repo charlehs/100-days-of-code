@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: December 15, 2024
+
+**Today's Progress**: Study session and....
+
+**Thoughts**: Started the day working through CSS grid problems, focused on getting `grid-template-areas:` into my head. I plan on doing some TS problems as well as rebuilding a component in React this afternoon.
+
+<!-- **Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator) -->
+
 ### Day 1: December 14, 2024
 
 **Today's Progress**: Continuing with the Dog Generator
