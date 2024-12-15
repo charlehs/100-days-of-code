@@ -2,7 +2,7 @@
 
 ### Day 2: December 15, 2024
 
-**Today's Progress**: Study session and....
+**Today's Progress**: Study session and.....
 
 **Thoughts**: Started the day working through CSS grid problems, focused on getting `grid-template-areas:` into my head. I plan on doing some TS problems as well as rebuilding a component in React this afternoon.
 
