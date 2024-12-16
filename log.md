@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: December 16, 2024
+
+**Today's Progress**: Worked my way through the React total typescript challenges and created a basic checkbox in the dogGenerator
+
+**Thoughts**: Going over the Total Typescript react challenges gave me a better understanding of when to use Interface over Type. The biggest difference is that interfaces can be expanded upon whereas Type stays the same. Interface should be used mostly always but type is recommended for States. It was good learning about `React.ComponentProps<'button'>` to grab props from html elements.
+<br/>
+I also began to create a checkbox component in the dog app, I want to try and build it in a way it can be expanded upon.
+
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
+
 ### Day 2: December 15, 2024
 
 **Today's Progress**: Study session and refactored API request on dogGenerator
