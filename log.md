@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: December 17, 2024
+
+**Today's Progress**: Created a dropdown component that uses the checkbox component
+
+**Thoughts**: This was a great challenge to see if I could turn my checkbox into a dropdown, I was also able to hook up the dog API to populate the list with different breeds.
+
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
+
 ### Day 3: December 16, 2024
 
 **Today's Progress**: Worked my way through the React total typescript challenges and created a basic checkbox in the dogGenerator
