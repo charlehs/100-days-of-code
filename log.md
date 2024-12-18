@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: December 18, 2024
+
+**Today's Progress**: Dropdown parses state up
+
+**Thoughts**: Updated dropdown to parse options up to parent component. Not much progress made today as Job application took priority, need to commit more time to this in the next few days.
+
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
+
 ### Day 4: December 17, 2024
 
 **Today's Progress**: Created a dropdown component that uses the checkbox component
