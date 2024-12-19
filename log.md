@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: December 19, 2024
+
+**Today's Progress**: Previous image state
+
+**Thoughts**: Added in a state where you can view the previously generated dog image.
+
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
+
 ### Day 5: December 18, 2024
 
 **Today's Progress**: Dropdown parses state up
