@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: December 20, 2024
+
+**Today's Progress**: Loading spinner
+
+**Thoughts**: Added in a loading spinner for API requests.
+
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
+
 ### Day 6: December 19, 2024
 
 **Today's Progress**: Previous image state
