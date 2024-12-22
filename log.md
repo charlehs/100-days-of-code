@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 9: December 22, 2024
+
+**Today's Progress**: E
+
+**Thoughts**: Updated checkbox state so it returns the latest values rather than stale ones.
+
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
 ### Day 8: December 21, 2024
 
 **Today's Progress**: React State
