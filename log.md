@@ -1,12 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 9: December 22, 2024
+### Day 10: December 29, 2024
 
-**Today's Progress**: E
+**Today's Progress**: Badge Component
 
-**Thoughts**: Updated checkbox state so it returns the latest values rather than stale ones.
+**Thoughts**: Created a badge component to show what breeds have been selected.
 
 **Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
+
+### Day 9: December 22, 2024
+
+**Today's Progress**: Event listener
+
+**Thoughts**: Added an event listener so the dropdown would automatically close when the user clicked elsewhere on the page.
+
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
+
 ### Day 8: December 21, 2024
 
 **Today's Progress**: React State
