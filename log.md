@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: December 30, 2024
+
+**Today's Progress**: Selected breeds now work
+
+**Thoughts**: The user can now select breeds and the api request will now display them
+
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/dogGenerator)
+
 ### Day 10: December 29, 2024
 
 **Today's Progress**: Badge Component
