@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 10: December 30, 2024
+### Day 12: Jan 02, 2025
+
+**Today's Progress**: Updated portfolio layout
+
+**Thoughts**: Created a simple layout that features heavily on typography. The goal is to get something out live asap.
+
+**Link(s) to work**: [Dog Generator](https://github.com/charlehs/portfolio)
+
+### Day 11: December 30, 2024
 
 **Today's Progress**: Selected breeds now work
 
