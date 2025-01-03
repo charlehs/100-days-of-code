@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 13: Jan 03, 2025
+
+**Today's Progress**: Added loading animations to portfolio
+
+**Thoughts**: Used GSAP scrolltrigger to create a basic text animation on load, will need refining in future.
+
+**Link(s) to work**: [Portfolio](https://github.com/charlehs/portfolio)
+
 ### Day 12: Jan 02, 2025
 
 **Today's Progress**: Updated portfolio layout
 
 **Thoughts**: Created a simple layout that features heavily on typography. The goal is to get something out live asap.
 
-**Link(s) to work**: [Dog Generator](https://github.com/charlehs/portfolio)
+**Link(s) to work**: [Portfolio](https://github.com/charlehs/portfolio)
 
 ### Day 11: December 30, 2024
 
