@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: Jan 06, 2025
+
+**Today's Progress**: Worked on deploying static site
+
+**Thoughts**: Managed to get site statically deployed, though having issues with linking css and js files.
+
+**Link(s) to work**: [Portfolio](https://github.com/charlehs/portfolio)
+
 ### Day 13: Jan 03, 2025
 
 **Today's Progress**: Added loading animations to portfolio
